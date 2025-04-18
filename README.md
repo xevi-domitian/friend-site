@@ -1,5 +1,5 @@
 # friend-site
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Friendship Question</title>
