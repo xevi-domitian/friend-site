@@ -3,6 +3,7 @@
 <html>
 <head>
   <title>Friendship Question</title>
+  
   <style>
     body {
       font-family: "Comic Sans MS", cursive, sans-serif;
